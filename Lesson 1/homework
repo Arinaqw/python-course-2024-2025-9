@@ -1,0 +1,5 @@
+user_name = str(input("What's your name?"))
+print("Hello " + user_name)
+age = int(input("How old are you?"))
+afteryears = 40 - age
+print("You will be fourty years old after " + afteryears + " year/years")
